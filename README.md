@@ -47,14 +47,12 @@ Five customer segments were identified:
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/mall-customer-segmentation.git
+git clone https://github.com/Harish115-dev/mall-customer-segmentation.git
 cd mall-customer-segmentation
-pip install -r requirements.txt
 jupyter notebook customer_segmentation.ipynb
 ```
 
 ## Requirements
-
 ```
 pandas
 numpy
